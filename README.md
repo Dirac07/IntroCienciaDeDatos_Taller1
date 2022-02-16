@@ -2,5 +2,7 @@
 
 Proyecto: World Happiness Report 
 
-Alejandro Barrera - A.barrera5@uniandes.edu.co \n
+
+Alejandro Barrera - A.barrera5@uniandes.edu.co 
+
 Alejandro Palomino - A.palomino@uniandes.edu.co
